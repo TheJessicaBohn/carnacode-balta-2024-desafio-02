@@ -1,3 +1,12 @@
+:construction: Projeto em construção :construction_worker:
+
+:metal: ** Squad: ** :four:
+
+  - [@TheJessicaBohn](https://github.com/TheJessicaBohn)
+  - [@rafaelmaia23](https://github.com/rafaelmaia23)
+  - [@thiagokj](https://github.com/thiagokj)
+  - [@gabrielbsx](https://github.com/gabrielbsx)
+
 ![banner-carnacode](https://github.com/balta-io/carnacode-balta-2024-desafio-01/assets/965305/b8cc442c-d64f-4dd1-9414-7fc896b47183)
 
 # CarnaCode 2024 - Desafio 2
